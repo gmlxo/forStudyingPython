@@ -40,6 +40,6 @@ print(textEx.upper())  # 전부 대분자
 
 print(len(textEx))  # textEx 문자열 길이
 
-print("." + textEx_1.rstrip()+".")  # 우측 공백 제거
-print("." + textEx_1.lstrip()+".")  # 좌측 공백 제거
-print("." + textEx_1.strip())  # 양쪽 공백 제거
+print("." + textEx_1.rstrip() + ".")  # 우측 공백 제거
+print("." + textEx_1.lstrip() + ".")  # 좌측 공백 제거
+print("." + textEx_1.strip() + ".")  # 양쪽 공백 제거
