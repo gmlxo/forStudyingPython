@@ -10,6 +10,7 @@ text = "HELLO WORD!"  # (1)
 textEx = "Hello Word!"
 textEx_1 = "   Hello Word   "
 
+print("gitHub commit test\n")
 #   ** int **
 
 #  사칙연산
